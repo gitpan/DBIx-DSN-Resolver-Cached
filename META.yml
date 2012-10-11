@@ -24,8 +24,8 @@ requires:
   Cache::Memory::Simple: 0
   DBIx::DSN::Resolver: 0
   parent: 0
-  perl: 5.10.0
+  perl: 5.8.5
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/kazeburo/DBIx-DSN-Resolver-Cached.git
-version: 0.01
+version: 0.02
